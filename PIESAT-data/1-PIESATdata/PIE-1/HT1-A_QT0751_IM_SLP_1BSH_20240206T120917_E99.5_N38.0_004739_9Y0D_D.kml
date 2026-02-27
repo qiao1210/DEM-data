@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns:xfdu="urn:ccsds:schema:xfdu:1">
+    <Document>
+        <name>HT-1 Map Overlay</name>
+        <Folder>
+            <name>HT-1 Scene Overlay</name>
+            <GroundOverlay>
+                <name>HT-1 Image Overlay</name>
+                <Icon>
+                    <href>quick_look_HT1-A_QT0751_IM_SLP_1BHH_20240206T120917_E99.5_N38.0_004739_9Y0D_D.jpg</href>
+                </Icon>
+                <gx:LatLonQuad>
+                    <coordinates>99.287039889153,37.903199720615 99.535533785598,37.846180488056 99.607277624159,38.042212184921 99.358160843147,38.099384146759</coordinates>
+                </gx:LatLonQuad>
+            </GroundOverlay>
+        </Folder>
+    </Document>
+</kml>
